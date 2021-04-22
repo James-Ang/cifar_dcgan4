@@ -1,0 +1,9 @@
+# Distribution / packaging
+.Python
+venv/
+build/
+test.py
+__pycache__
+output*
+Requirements*
+training_checkpoints
